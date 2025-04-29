@@ -5,7 +5,7 @@ const middle_Name = "Kumar";
 const last_Name = "Majumdar";
 
 //console.log(first_Name);
-//console.log(typeof first_Name);    //typeof = String
+//console.log(typeof first_Name);    //typeof = String;
 
 
 
