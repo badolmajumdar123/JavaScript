@@ -4,6 +4,11 @@ const first_Name = "Badol";
 const middle_Name = "Kumar";
 const last_Name = "Majumdar";
 
+//console.log(first_Name);
+//console.log(typeof first_Name);    //typeof = String
+
+
+
 //Add String ---
 
 const full_Name1 = first_Name + " " + middle_Name + " " + last_Name;
