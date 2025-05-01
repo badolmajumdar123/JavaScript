@@ -9,5 +9,6 @@ const my_Object = {
 
 
 //console.log(my_Object);
+//console.log(my_Object.name);
 
 //console.log(typeof my_Object); //typeof = object;
