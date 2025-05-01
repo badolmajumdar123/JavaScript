@@ -1,5 +1,9 @@
 
 //for in loop use just object......
+//object[key] = value
+
+
+//1..................
 
 const myObject = {
 
@@ -21,9 +25,9 @@ const myObject = {
 // console.log(myObject.email);
 
 
-//1............................
 
-for (const key in myObject) {
+
+for (let key in myObject) {
     //console.log(myObject[key]);
         
     }
@@ -48,7 +52,7 @@ const myObject1 = {
 
 };
 
-for (const key in myObject1) {
+for (let key in myObject1) {
     
     //console.log(myObject1);
         
@@ -79,7 +83,7 @@ const myObject2 = {
 
 
 
-for (const key in myObject2) {
+for (let key in myObject2) {
     
    // console.log(key, ":", myObject2[key]);
    //console.log(`${key} : ${myObject2[key]}`)
