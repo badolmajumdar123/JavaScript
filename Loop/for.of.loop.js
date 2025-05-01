@@ -43,3 +43,4 @@ for (const element of myArr1) {
    // console.log(`${element}:${myArr1}`)
     
 }
+
