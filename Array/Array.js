@@ -5,4 +5,3 @@ const my_Array = ["Badol","Shomrat","Avi","Monty","Chandhan","Dipto","Joy"];
 
 
 
-//reduce(),find(),map(),join();
