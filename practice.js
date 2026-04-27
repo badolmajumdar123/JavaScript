@@ -446,7 +446,16 @@ const object_mobile = array_Object[8].mobile
 
 
 
+// const object_name = array_Object[0].name
 
+
+// const object_email = array_Object[4].email
+
+// const object_pass = array_Object[7].pass
+
+// const object_age = array_Object[14].age
+// const object_id = array_Object[3].id
+// const object_mobile = array_Object[8].mobile
 
 
 
@@ -672,3 +681,20 @@ const otp = Math.floor(1000000000+Math.random()*9000000000);
 
 //console.log((1000+0.2344)*90000)
 
+
+
+
+// const math_random = Math.random();
+// //console.log(math_random)
+
+
+// const OTP = Math.floor(100000+Math.random()*900000);
+
+// //console.log(OTP)
+
+
+// const otp = Math.floor(1000000000+Math.random()*9000000000);
+// //console.log(otp)
+
+
+// //console.log((1000+0.2344)*90000)
